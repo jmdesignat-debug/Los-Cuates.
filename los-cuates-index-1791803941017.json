@@ -1,16 +1,16 @@
 {
   "config": {
-    "titulo": "Tamales bien hechos.",
-    "subtitulo": "Nixtamal, hoja y manteca. sin atajos. Arma tu pedido aquí, directo del puesto.",
+    "titulo": "Tamales en hoja de plátano.",
+    "subtitulo": "Sin atajos. Arma tu pedido aquí, directo del puesto.",
     "bullets": [
-      "Nixtamalizado 12h en casa",
-      "Hoja de plátano fresca",
-      "Manteca de cerdo limpia",
-      "Salsas molcajeteadas hoy"
+      "Tamales caseros",
+      "Productos frescos",
+      "Siempre recién hechs",
+      "acompañe con un rico champurrado"
     ],
     "horario": "Lunes a sábado 07:00-12:00",
     "clabe": "012 180 0158 9876 5432",
-    "telefono": "81 1234 5678",
+    "telefono": "844 225 25 82",
     "folioTexto": "Folio automático CUATES-6665",
     "lealtadTexto": "Lealtad 10 sellos = 1 tamal gratis",
     "stockTexto": "Stock por fecha HOY controlado",
@@ -45,8 +45,6 @@
     "kmGratis": 0.5,
     "puestoLat": 25.436368,
     "puestoLng": -100.99837,
-    "pagoAviso": "A domicilio preferente con tarjeta. Efectivo solo para clientes frecuentes",
-    "pagoFrecuenteLabel": "¿Cliente frecuente? ☑️ Sí"
   },
   "productos": [
     {
@@ -55,25 +53,25 @@
       "precio": 40,
       "stock": 30,
       "tipo": "tamal",
-      "desc": "Oaxaca fundido, rajas tatemadas — nixtamal 12h",
+      "desc": "cheddar",
       "badge": ""
     },
     {
       "id": "verde",
-      "nombre": "Verde pollo",
+      "nombre": "Verde",
       "precio": 40,
       "stock": 30,
       "tipo": "tamal",
-      "desc": "Salsa molcajeteada tomatillo hoy — pollo deshebrado",
+      "desc": "Pechuga de pollo",
       "badge": ""
     },
     {
       "id": "rojo",
-      "nombre": "Rojo puerco",
+      "nombre": "Rojo",
       "precio": 40,
       "stock": 30,
       "tipo": "tamal",
-      "desc": "Chile ancho, puerco deshebrado — hoja fresca",
+      "desc": "Pierna de cerdo en salsa roja sin picante",
       "badge": ""
     },
     {
@@ -82,10 +80,8 @@
       "precio": 25,
       "stock": 30,
       "tipo": "bebida",
-      "desc": "Cacao 70%, canela, espeso extra",
+      "desc": "Cacao, canela, extra delicioso",
       "badge": "Extra espeso"
     }
   ],
-  "generatedAt": "2026-10-12T11:19:00.992Z",
-  "version": "los-cuates-v6-fix-final"
 }
